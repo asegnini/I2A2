@@ -2,7 +2,7 @@
 
 # 🚀 Plataforma de Análise de Notas Fiscais com Agentes de IA
 
-Esta é uma plataforma de Business Intelligence (BI) e Análise de Dados inovadora, que emprega o poder de agentes de Inteligência Artificial para transformar dados brutos de Notas Fiscais (em formato CSV) em dashboards interativos, análises fiscais automáticas e relatórios profissionais em formato `.docx`.
+Esta é um agente especializado em Business Intelligence (BI) e Análise de Dados inovadora, que emprega o poder de agentes de Inteligência Artificial para transformar dados brutos de Notas Fiscais (em formato CSV) em dashboards interativos, análises fiscais automáticas e relatórios profissionais em formato `.docx`.
 
 -----
 

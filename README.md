@@ -1,5 +1,3 @@
-Okay, I've compiled all the information you provided into a single, cohesive `README.md` file, keeping the existing style and adding the instructions for running the application.
-
 -----
 
 # 🚀 Plataforma de Análise de Notas Fiscais com Agentes de IA
